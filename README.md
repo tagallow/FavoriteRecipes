@@ -1,2 +1,3 @@
 # FavoriteRecipes
-My favorite recipes written in markdown
+
+My favorite recipes, written in markdown.
