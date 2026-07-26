@@ -3,13 +3,11 @@
 ## Ingredients
 
 - 1 lb Farfalle pasta
-
 - 3  Green onions
 - Jar sun dried tomatoes
 - 2 lb spinach, shredded
 - 1/3 cup toasted pine nuts
 - 1 TB fresh oregano
-
 - ¼ cup olive oil
 - 1 tsp chopped green chiles
 - 1 clove garlic
