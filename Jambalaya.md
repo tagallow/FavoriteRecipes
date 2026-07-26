@@ -8,7 +8,6 @@
 - 1 tablespoon minced garlic
 - 6 ounces andouille sausage (or spicy Italian sausage)
 - 1 lb chicken
-
 - 1 cup uncooked long-grain white rice
 - 1 teaspoon paprika
 - 1 teaspoon freshly ground black pepper
@@ -17,15 +16,12 @@
 - 1/2 teaspoon dried thyme
 - 1/4 teaspoon garlic salt
 - 1 bay leaf
-
 - 2 cups fat-free, less-sodium chicken broth
 - 3/4 cup water
 - 1 tablespoon tomato paste
 - 1/2 teaspoon hot pepper sauce
 - 1 (14.5-ounce) can no salt-added diced tomatoes, undrained
-
 - 2 tablespoons chopped fresh parsley
-
 - 1/2 pound peeled and deveined medium shrimp
 
 ## Instructions

@@ -1,4 +1,4 @@
-# Bowtie Pasta Salad with Sun-Dried Tomatoes, Spinach, and Pine Nuts
+# Bowtie Pasta Salad with Sun-Dried Tomatoes
 
 ## Ingredients
 
