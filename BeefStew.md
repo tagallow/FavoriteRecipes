@@ -34,3 +34,5 @@
 9. **Pressure Cook the Beef Stew**: Remove half of the carrots, celery, potatoes from pressure cooker and set aside. Place beef stew meat and all its juice in the pressure cooker. Partially submerge the beef stew meat in the liquid without stirring, as you don’t want too much flour in the liquid at this point. Close lid and pressure cook at High Pressure for 32 minutes + 10 minutes Natural Release. Turn off the heat. Release the remaining pressure. Open the lid.
 10. **Thicken Beef Stew and Add Vegetables**: On medium heat (Instant Pot: press Sauté button), breakdown the mushy potatoes and carrots with a wooden spoon. Stir to thicken the stew. Add frozen peas, sautéed mushrooms, and the set aside carrots, celery and potatoes in the pot. Taste and season with kosher salt and freshly ground black pepper if necessary. We added 2 pinches of kosher salt.
 11. **Serve**: Serve with mashed potatoes, pasta or your favorite starch.
+
+[Instant Pot Beef Stew](https://www.pressurecookrecipes.com/instant-pot-beef-stew/#recipe)

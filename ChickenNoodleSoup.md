@@ -29,3 +29,5 @@
 9. Add freshly chopped dill and green onions
 10. Season with a lot of salt
 11. Cook noodles in soup immediately before serving.
+
+[Stock & Chicken Noodle Soup | Basics with Babish](https://youtu.be/74tZ-yOOPy0)
