@@ -5,7 +5,7 @@
 ### Basic Ratios
 
 - Pour Over 60g/L
-- Infusion**** 75g/L
+- Infusion 75g/L
 
 ### Espresso
 
