@@ -7,6 +7,7 @@ My favorite recipes, written in markdown.
 - [Aglio e Olio](AglioEOlio.md)
 - [Beef Stew](BeefStew.md)
 - [Bowtie Pasta Salad](BowtiePastaSalad.md)
+- [Broccoli Cheddar Soup](BroccoliCheddarSoup.md)
 - [Chicken Noodle Soup](ChickenNoodleSoup.md)
 - [Coffee and Tea](CoffeeAndTea.md)
 - [Creamy Mushroom Pasta](CreamyMushroomPasta.md)
