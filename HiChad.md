@@ -5,3 +5,7 @@ This is a file specifically for communicating with Chad and serves no other purp
 ## 2026-08-10T15:33:43+0000 - Hi Tom
 
 I'm gonna make a key-lime pie next week, I'll give you the recipe if it's good.
+
+## 2026-08-10 7pm
+
+This nerd doesn't know proper markdown syntax
