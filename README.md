@@ -6,6 +6,7 @@ My favorite recipes.
 
 - [Aglio e Olio](AglioEOlio.md)
 - [Beef Stew](BeefStew.md)
+- [Beef Stroganoff](BeefStroganoff.md)
 - [Bowtie Pasta Salad](BowtiePastaSalad.md)
 - [Broccoli Cheddar Soup](BroccoliCheddarSoup.md)
 - [Chicken Alfredo with Peas](ChickenAlfredoWithPeas.md)
