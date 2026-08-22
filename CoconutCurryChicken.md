@@ -25,11 +25,11 @@
 ## Instructions
 
 1. Heat **olive oil in** a large skillet or **Dutch oven** over medium-high heat.
-2. When the oil shimmers, add the **chicken** to the skillet. 
-    1. **Cook for 5 minutes**, or just until browned on the outside. Don’t stir the chicken too frequently, since you want to give it time to sit in the skillet and get a nice brown exterior. 
+2. When the oil shimmers, add the **chicken** to the skillet.
+    1. **Cook for 5 minutes**, or just until browned on the outside. Don’t stir the chicken too frequently, since you want to give it time to sit in the skillet and get a nice brown exterior.
     2. *The chicken doesn’t need to be cooked through at this point (since it will continue cooking with the rest of the ingredients), so you’re just looking for some color on the outside to add flavor.*
 3. **Season the chicken** with some salt and pepper, to taste.
-4. Add the **broccoli and onion** to the skillet. 
+4. Add the **broccoli and onion** to the skillet.
     1. Cook just until the onion starts to soften, about **4-5 more minutes**, stirring occasionally and scraping up the bits from the bottom of the pan.
 5. Add the **garlic, ginger, red curry paste**, and curry powder (if using). Cook for **1 minute**.
 6. Stir in the **coconut milk**; bring to a simmer.

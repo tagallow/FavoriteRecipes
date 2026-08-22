@@ -11,6 +11,7 @@ My favorite recipes.
 - [Broccoli Cheddar Soup](BroccoliCheddarSoup.md)
 - [Chicken Alfredo with Peas](ChickenAlfredoWithPeas.md)
 - [Chicken Noodle Soup](ChickenNoodleSoup.md)
+- [Coconut Curry Chicken](CoconutCurryChicken.md)
 - [Coffee and Tea](CoffeeAndTea.md)
 - [Creamy Mushroom Pasta](CreamyMushroomPasta.md)
 - [Garlic Lemon Shrimp](GarlicLemonShrimp.md)
