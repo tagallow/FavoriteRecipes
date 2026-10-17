@@ -5,6 +5,7 @@ My favorite recipes.
 ## Directory
 
 - [Aglio e Olio](AglioEOlio.md)
+- [Basic Pasta Sauce](BasicPastaSauce.md)
 - [Beef Stew](BeefStew.md)
 - [Beef Stroganoff](BeefStroganoff.md)
 - [Bowtie Pasta Salad](BowtiePastaSalad.md)
