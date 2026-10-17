@@ -4,7 +4,7 @@
 
 - 2 tbsp olive oil
 - 1 small onion, finely chopped
-- 3 cloves garlic, minced
+- 6 cloves garlic, minced
 - 1 tsp dried oregano
 - 1 tsp dried basil
 - 1/2 tsp red pepper flakes (optional)
