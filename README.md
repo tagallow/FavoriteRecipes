@@ -16,5 +16,6 @@ My favorite recipes.
 - [Coffee and Tea](CoffeeAndTea.md)
 - [Creamy Mushroom Pasta](CreamyMushroomPasta.md)
 - [Garlic Lemon Shrimp](GarlicLemonShrimp.md)
+- [Hearty Kale Soup](HeartyKaleSoup.md)
 - [Instant Pot Chili](InstantPotChili.md)
 - [Jambalaya](Jambalaya.md)
